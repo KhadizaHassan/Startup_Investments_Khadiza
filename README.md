@@ -25,7 +25,7 @@
 
   ## 1. Scatter Plot - Correlate the offices longitude and latitude.
   
-    ### Analyzed office location data using Python, focusing on geographical distribution, checked for the presence of 'longitude' and 'latitude'  and visualized the data with a scatter plot. 
+  ### Analyzed office location data using Python, focusing on geographical distribution, checked for the presence of 'longitude' and 'latitude'  and visualized the data with a scatter plot. 
   
  ![Screenshot (347)](https://github.com/user-attachments/assets/0650f795-310e-4161-842e-689e28ad2947)
 
