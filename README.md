@@ -1,4 +1,4 @@
-# Analysing on Aquisitions Investments  ![Icon](https://"C:\Users\khadi\OneDrive\Pictures\Screenshots\Screenshot (401).png")
+# Analysing on Aquisitions Investments  ![Icon]("C:\Users\khadi\OneDrive\Pictures\Screenshots\Screenshot (401).png")
 
 
 ## Tools I Have Used
