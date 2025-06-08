@@ -21,7 +21,7 @@
 ## Data Configurations:
 ![Screenshot (422)](https://github.com/user-attachments/assets/7eb89eb2-5ab8-4726-99be-74c1fb8332e0)
 
-#Core insights:
+# Core insights:
 
   ## 1. 
   
