@@ -2,7 +2,7 @@
 
 ##Tools I Have Used
 
-![Screenshot (418)](https://github.com/user-attachments/assets/664b793d-191f-4162-a987-f9da8e8be49a)  ➡️ ![Screenshot (419)](https://github.com/user-attachments/assets/78440fd4-8a10-4e06-ae54-e80f6b1878c2)  ➡️ ![Screenshot (257)](https://github.com/user-attachments/assets/ac723766-21a9-48ce-8d65-c955c3e9411d)  ➡️ 
+![Screenshot (418)](https://github.com/user-attachments/assets/664b793d-191f-4162-a987-f9da8e8be49a)  ➡️ ![Screenshot (419)](https://github.com/user-attachments/assets/78440fd4-8a10-4e06-ae54-e80f6b1878c2)
 
 
 ![Screenshot (417)](https://github.com/user-attachments/assets/4ce4a918-71dc-4c66-b41c-264a916b75a3)  ➡️  
