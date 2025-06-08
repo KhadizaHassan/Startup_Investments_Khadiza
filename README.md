@@ -1,4 +1,5 @@
-# Analysing on Aquisitions Investments  ![Icon]("C:\Users\khadi\OneDrive\Pictures\Screenshots\Screenshot (401).png")
+# Analysing on Aquisitions Investments  ![Icon](![Screenshot (401)](https://github.com/user-attachments/assets/cb64e772-484f-4ecc-a8d7-f086e2703b22))
+
 
 
 ## Tools I Have Used
