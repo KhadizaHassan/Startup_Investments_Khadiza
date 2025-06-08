@@ -1,4 +1,4 @@
-# Analysing on Aquisitions Investments
+![Screenshot (401)](https://github.com/user-attachments/assets/0f21112a-ada1-4e27-b420-257d350c621b) # Analysing on Aquisitions Investments
 
 ## Tools I Have Used
 
