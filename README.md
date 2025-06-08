@@ -1,4 +1,4 @@
-# Analysing on Aquisitions Investments <img src="![Screenshot (401)](https://github.com/user-attachments/assets/7b47200f-374d-4169-b8ac-7fa3bbba8adf)" with="20">
+# Analysing on Aquisitions Investments  ![Icon](https://"C:\Users\khadi\OneDrive\Pictures\Screenshots\Screenshot (401).png")
 
 
 ## Tools I Have Used
