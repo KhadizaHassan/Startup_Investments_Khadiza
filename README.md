@@ -116,9 +116,9 @@
 # Power BI Assessments:
 
 ### Power BI analysis should highlight how the tool enables data-driven decision-making through visualization, transformation, and reporting.
-###- Establish relationships between datasets for deeper insights.
-###- DAX (Data Analysis Expressions): Perform calculations and aggregations.
-###- Visualization Tools: Use charts, maps, and KPIs to present data effectively.
+### Establish relationships between datasets for deeper insights.
+### DAX (Data Analysis Expressions): Perform calculations and aggregations.
+### Visualization Tools: Use charts, maps, and KPIs to present data effectively.
 
 
 ## 15. Analyze organizations data efficiently with Power BI or business intelligence tool. ⤵️
