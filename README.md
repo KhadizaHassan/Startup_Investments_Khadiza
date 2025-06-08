@@ -1,4 +1,4 @@
-# Startup_Investments_Khadiza
+# Analysing on Aquisitions Investments 
 
 ![Synapse Dashboard](https://github.com/user-attachments/assets/4b7fe116-fb0b-4cf8-a002-fca69a2d50d1)
 
