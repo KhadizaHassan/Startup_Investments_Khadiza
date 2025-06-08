@@ -1,8 +1,6 @@
-# Analysing on Aquisitions Investments  ![Icon](![Screenshot (401)](https://github.com/user-attachments/assets/cb64e772-484f-4ecc-a8d7-f086e2703b22))
+# Analysing on Aquisitions Investments
 
-
-
-## Tools I Have Used
+## Tools I Have Used:
 
 ![Screenshot (418)](https://github.com/user-attachments/assets/664b793d-191f-4162-a987-f9da8e8be49a) 
 
@@ -25,7 +23,9 @@
 
 # Core insights:
 
-  ## 1. 
+  ## 1. Scatter Plot - Correlate the offices longitude and latitude.
+  
+    Analyzed office location data using Python, focusing on geographical distribution, checked for the presence of 'longitude' and 'latitude'  and visualized the data with a scatter plot 
   
  ![Screenshot (347)](https://github.com/user-attachments/assets/0650f795-310e-4161-842e-689e28ad2947)
 
