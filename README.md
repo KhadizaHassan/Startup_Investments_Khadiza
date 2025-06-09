@@ -103,7 +103,7 @@
  
 ![Screenshot (332)](https://github.com/user-attachments/assets/15e0e5a3-1629-43c5-bee3-6c586ff0c81a)
 
-### Briefly restate the most important findings from your SQL queries analysis involves summarizing key findings, interpreting their significance, and suggesting next steps. Here’s how you can structure it. Fund growth patterns may indicate investment opportunities or market stability, and - Office concentration in certain regions suggests business expansion trends.
+### Briefly restate the most important findings from your SQL queries analysis involves summarizing key findings, interpreting their significance, and suggesting next steps. Here’s how you can structure it. Fund growth patterns may indicate investment opportunities or market stability, and Office concentration in certain regions suggests business expansion trends.
 
   
 # Power BI Assessments:
@@ -114,12 +114,15 @@
 ### Visualization Tools: Use charts, maps, and KPIs to present data effectively.
 
 
-## 15. Analyze organizations data efficiently with Power BI or business intelligence tool. ⤵️
-  
+## 15. Connected Azure Synapse and Microsoft Febric to Analyze organizations data efficiently with Power BI or business intelligence tool. ⤵️
+
+
+![Screenshot (436)](https://github.com/user-attachments/assets/a58aa541-6f5c-45b9-a4de-d10f8e2c41cc)
+
+ 
 ![Screenshot (413)](https://github.com/user-attachments/assets/39205cec-1bd5-4fff-8402-f144147389c4)
 
-## To wrap things up, Power BI transforms raw data into actionable insights, making it a powerful tool for businesses. By leveraging its capabilities, organizations can make informed decisions, optimize performance, and drive growth, Azure synapse SQL queries analysis involves summarizing key findings, interpreting their significance, and suggesting next step, and Using Azure synapse identifying optimal locations for expansion, or assessing economic activity across different regions. If you'd like to refine any aspect—such as exploring correlations with industry presence. 
-
+### To wrap things up, Power BI transforms raw data into actionable insights, making it a powerful tool for businesses. By leveraging its capabilities, organizations can make informed decisions, optimize performance, and drive growth, Azure synapse SQL queries analysis involves summarizing key findings, interpreting their significance, and suggesting next step, and Using Azure synapse identifying optimal locations for expansion, or assessing economic activity across different regions. 
 
 
 
