@@ -108,18 +108,16 @@
   
 # Power BI Assessments:
 
-### Power BI analysis should highlight how the tool enables data-driven decision-making through visualization, transformation, and reporting.
-### Establish relationships between datasets for deeper insights.
-### DAX (Data Analysis Expressions): Perform calculations and aggregations.
-### Visualization Tools: Use charts, maps, and KPIs to present data effectively.
+### Power BI analysis should highlight how the tool enables data-driven decision-making through visualization, transformation, and reporting.\ Establish relationships between datasets for deeper insights.\ DAX (Data Analysis Expressions): Perform calculations and aggregations.\ Visualization Tools: Use charts, maps, and KPIs to present data effectively.
 
 
 ## 15. Connected Azure Synapse and Microsoft Febric to Analyze organizations data efficiently with Power BI or business intelligence tool. ⤵️
 
-
+### Using Microsoft Febric:
 ![Screenshot (436)](https://github.com/user-attachments/assets/a58aa541-6f5c-45b9-a4de-d10f8e2c41cc)
 
- 
+
+ ### Using Azure Synapse:
 ![Screenshot (413)](https://github.com/user-attachments/assets/39205cec-1bd5-4fff-8402-f144147389c4)
 
 ### To wrap things up, Power BI transforms raw data into actionable insights, making it a powerful tool for businesses. By leveraging its capabilities, organizations can make informed decisions, optimize performance, and drive growth, Azure synapse SQL queries analysis involves summarizing key findings, interpreting their significance, and suggesting next step, and Using Azure synapse identifying optimal locations for expansion, or assessing economic activity across different regions. 
