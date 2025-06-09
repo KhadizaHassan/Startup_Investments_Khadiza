@@ -1,6 +1,6 @@
 # 💰 A Deep Dive on Aquisitions Investments 
 
-## Tools I Have Used:
+## Workflows with Tools I Have Used:
 
 ![Screenshot (434)](https://github.com/user-attachments/assets/857e2cc8-336b-40d8-8fba-39cc454f36f9)
 
