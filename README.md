@@ -32,7 +32,7 @@
 
   ## 3. Bar Chart - Identifying states in the USA have the highest number of office locations.  ⤵️
   
-  ### Examine the states with the most office locations in the USA. The Python script first ensures that the dataset contains both 'state_code' and 'country_code' columns. Then, it filters the data to focus on the USA and counts the number of offices in each state. The top 20 states with the highest office counts are displayed in a bar chart using seaborn. This visualization provides a clear comparison, showing California (CA) leading, followed by New York (NY) and Massachusetts (MA), among others. This insight helps in understanding regional office distribution trends across the country.
+  ### Examine the states with the most office locations in the USA. The Python script first ensures that the dataset contains both 'state_code' and 'country_code'. Then, it filters the data to focus on the USA and counts the number of offices in each state. The top 20 states with the highest office counts are displayed in a bar chart using seaborn. This visualization provides a clear comparison, showing California (CA) leading, followed by New York (NY) and Massachusetts (MA), among others. This insight helps in understanding regional office distribution trends across the country.
 
  ![Screenshot (350)](https://github.com/user-attachments/assets/34a707d8-7e8e-4b06-9317-5b97b19d2dd8)
  
@@ -108,13 +108,17 @@
   
 # Power BI Assessments:
 
-### Power BI analysis should highlight how the tool enables data-driven decision-making through visualization, transformation, and reporting. Establish relationships between datasets for deeper insights. DAX (Data Analysis Expressions): Perform calculations and aggregations. Visualization Tools: Use charts, maps, and KPIs to present data effectively.
+### Power BI analysis should highlight how the tool enables data-driven and decision-making through visualization, transformation, and reporting. Establish relationships between datasets for deeper insights. DAX (Data Analysis Expressions): Perform calculations and aggregations. Visualization Tools: Use charts, maps, and KPIs to present data effectively.
 
 
 ## 15. Connected Azure Synapse and Microsoft Febric to Analyze organizations data efficiently with Power BI or business intelligence tool. ⤵️
 
 ### ➡️ Using Microsoft Febric:
 ![Screenshot (436)](https://github.com/user-attachments/assets/a58aa541-6f5c-45b9-a4de-d10f8e2c41cc)
+
+
+### ➡️ Using Microsoft Febric:
+![Screenshot (438)](https://github.com/user-attachments/assets/c5ecb014-caee-4771-ac0b-7a331a04428d)
 
 
 ### ➡️ Using Azure Synapse:
